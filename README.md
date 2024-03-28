@@ -15,7 +15,7 @@ I had used the Keras edition scs that was available on Ralph Pisoni and brohrer�
 Although a significant contribution was writing a python library to wrap these layers. available: https://pypi.org/project/sharpcosine/0.1.1/
 
 ### Experiment
-It was a straightforward experiment where I had utilised a combination of pretrained ResNet architecture and Ralph’s custom SCS architecture. 
+It was a straightforward experiment where I had utilised a combination of pretrained ResNet architecture and Raphael’s custom SCS architecture. 
 
 Highlight: Choosing the optimizer and hyperparameters was  a choice, I was inspired from the original AlexNet paper.
 
